@@ -22,3 +22,4 @@ const multi =(x,y,z)=> {
     const total = multiply /2 ;
     return total ;
 }
+
